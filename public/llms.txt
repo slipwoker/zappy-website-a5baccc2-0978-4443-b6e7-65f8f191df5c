@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שאקפה היא המסעדה החלבית שתשנה לכם את הארוחה! עיינו בתפריט הדיגיטלי המלא, הזמינו אונליין בקלות ותיהנו מחוויה קולינרית חלבית שלא תשכחו. הזמינו עכשיו!
+
+### אודות
+https://example.com/about
+גלו מי אנחנו ולמה שאקפה היא המסעדה החלבית האהובה על כולם. תשוקה לאוכל איכותי, מרכיבים טריים ושירות חם — זה הבסיס שעליו בנינו את המסעדה שלנו. היכנסו וקראו את הסיפור שלנו!
+
+### גלריה
+https://example.com/gallery
+הציצו לגלריה של שאקפה וגלו מנות חלביות מפנקות שיגרמו לפה שלכם לרחרח! תפריט דיגיטלי מלא של מסעדה חלבית מוצג כאן בתמונות מרהיבות. בואו להתפתות ולהזמין עוד היום!
+
+### צור קשר
+https://example.com/contact
+רוצים להגיע לשאקפה או לבצע הזמנה אונליין במסעדה החלבית הכי שווה באזור? כאן תמצאו את כל פרטי ההתקשרות, כתובת המסעדה ואפשרויות ההזמנה. מסעדה חלבית קרובה אליכם — צרו קשר עכשיו!
+
+### Products
+https://example.com/products
+המוצרים שלנו - שאקפה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - שאקפה
+
+### Category
+https://example.com/category/:slug
+מוצרים - שאקפה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
